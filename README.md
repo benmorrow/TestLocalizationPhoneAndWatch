@@ -8,3 +8,5 @@ watchOS 2 bugs with Localization
 Screenshots with descritptions of the expected behaviors:
 
 ![expected behavior in simulator and device](http://i.imgur.com/Jp1504Z.png)
+
+[Video tutorial](https://www.youtube.com/watch?v=nKH54aIMtT8) for localizing an app with a XLIFF file and seeing these errors.
