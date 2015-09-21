@@ -1,0 +1,9 @@
+/* Class = "WKInterfaceLabel"; text = "Hello Storyboard"; ObjectID = "Sgl-ES-lLR"; */
+"Sgl-ES-lLR.text" = "hola guión gráfico";
+
+/* Class = "WKInterfaceLabel"; text = "525600"; ObjectID = "f7Q-Mm-YkY"; */
+"f7Q-Mm-YkY.text" = "525600";
+
+/* Class = "WKInterfaceLabel"; text = "Hello from code"; ObjectID = "nkx-Ne-zr0"; */
+"nkx-Ne-zr0.text" = "Hello from code";
+
