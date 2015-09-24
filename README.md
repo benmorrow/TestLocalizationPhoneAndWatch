@@ -9,4 +9,4 @@ Screenshots with descritptions of the expected behaviors:
 
 ![expected behavior in simulator and device](http://i.imgur.com/Jp1504Z.png)
 
-I have prpared a [screencast](https://www.youtube.com/watch?v=nKH54aIMtT8) that shows how I'm localizing the app with a XLIFF file and seeing these errors.
+I have prepared a [screencast](https://www.youtube.com/watch?v=nKH54aIMtT8) that shows how I'm localizing the app with a XLIFF file and seeing these errors.
